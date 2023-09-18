@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Web Development
 - 💞️ I’m looking to collaborate on ...Python/ HTML/ CSS
-- 📫 How to reach me ... Email: sharmahimanshu050104@gmail.com      Instagram: @oyehimanshu_      
+- 📫 How to reach me ... Email: sharmahimanshu050104@gmail.com
+- LinkedIn : https://www.linkedin.com/in/sharma-himanshu0501/:       
 
 <!---
 HimanshuSharma0501/HimanshuSharma0501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
