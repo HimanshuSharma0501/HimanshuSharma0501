@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @HimanshuSharma0501
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Web Development
-- 💞️ I’m looking to collaborate on ...Python/ HTML/ CSS
-- 📫 How to reach me ... Email: sharmahimanshu050104@gmail.com
-- LinkedIn : https://www.linkedin.com/in/sharma-himanshu0501/:       
+Hello there! 👋 I'm Himanshu Sharma, a passionate MERN stack web developer with a knack for building scalable applications and crafting engaging user experiences. My journey in web development began when I started my Bachelors of Technology . Since then, I've immersed myself in the world of full-stack development, specializing in the MERN stack along with additional skills in Next.js, TypeScript, and Material-UI (MUI).
 
-<!---
-HimanshuSharma0501/HimanshuSharma0501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 Socials:
+LinkedIn
+
+💻 Tech Stack:
+CSS3 HTML5 JavaScript NodeJS MongoDB Nodemon Bootstrap C C++ SASS
+
+📊 GitHub Stats:
+
+
+
+
+🏆 GitHub Trophies
+
+
