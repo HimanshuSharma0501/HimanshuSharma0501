@@ -4,13 +4,18 @@ Hello there! 👋 I'm Himanshu Sharma, a passionate MERN stack web developer wit
 LinkedIn
 
 💻 Tech Stack:
-CSS3 HTML5 JavaScript NodeJS MongoDB Nodemon Bootstrap C C++ SASS
+CSS3 HTML5 JavaScript NodeJS MongoDB Nodemon Bootstrap C C++ SASS MERN Python
 
 📊 GitHub Stats:
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuSharma0501&show_icons=true&theme=radical)
 
+
+📊 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuSharma0501&layout=compact&theme=radical)
 
 
 
 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=HimanshuSharma0501&theme=radical)
 
 
